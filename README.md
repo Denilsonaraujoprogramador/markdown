@@ -19,8 +19,8 @@ Nesse curso você vai dominar o **github** do zero ao profissional.
 ___
 [Instagram](http://Instagram.com/)  &nbsp; &nbsp;&nbsp;[Youtube](http://youtube.com/)
 
-<!-- Blockquete -->
-> Este é o blockquete usada para destacar alguma área.
+<!-- Blockcode -->
+> Este é o blockcode usada para destacar alguma área.
 
 >Segunda área
 
@@ -36,4 +36,13 @@ npm star
 function showName()name{
     return "Bem vindo" + nome;
 }
+```
+
+**Exemplo de uso de HTML**
+
+```html
+<h1>
+    Titulo do Projeto
+    <span>Curso Git</span>
+</h1>
 ```
