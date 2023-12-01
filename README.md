@@ -15,26 +15,27 @@ Nesse curso você vai dominar o **github** do zero ao profissional.
 2. Aprendendo sobre branch
 3. Git Avançado
 
-### Rede Social
-___
-[Instagram](http://Instagram.com/)  &nbsp; &nbsp;&nbsp;[Youtube](http://youtube.com/)
+### Link para as Redes Sociais
 
-<!-- Blockcode -->
+[Instagram](http://Instagram.com/)  &nbsp; &nbsp;&nbsp;[Youtube](http://youtube.com/)
+___
+
+**Uso de Blockcode**
 > Este é o blockcode usada para destacar alguma área.
 
 >Segunda área
 
-# Comando para rodar o projeto
+**Comando para rodar o projeto**
 
 ```
-npm star
+npm start
 ```
 
-**Exemplo de uso de JS**
+**Exemplo de uso de JavaScript**
 
 ```js
-function showName()name{
-    return "Bem vindo" + nome;
+function showName (name) {
+    return "Bem vindo! " + nome;
 }
 ```
 
@@ -46,3 +47,10 @@ function showName()name{
     <span>Curso Git</span>
 </h1>
 ```
+
+Propriedades | Descrição
+------------------------
+Name | Para informar o nome do usuário
+Size | Para definir o tamanho do campo
+Background | Para de definir a cor de funco de uma área
+onPressa | Função chamada ao clicar no botão
