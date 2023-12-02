@@ -49,7 +49,7 @@ function showName (name) {
 ```
 
 Propriedades | Descrição
-------------------------
+------------ | -----------
 Name | Para informar o nome do usuário
 Size | Para definir o tamanho do campo
 Background | Para de definir a cor de funco de uma área
