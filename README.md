@@ -29,7 +29,7 @@ ___
 
 >Segunda área
 
-[Comando para rodar projeto]()
+[Comando para rodar projeto](#comando-para-rodar-o-projeto)
 ### Comando para rodar o projeto
 
 ```
